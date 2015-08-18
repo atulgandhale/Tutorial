@@ -7,6 +7,6 @@ namespace AndroidPushNotifications
 {
     public class PushDC
     {
-        public System.Data.DataSet DS { get; set; }
+
     }
 }
